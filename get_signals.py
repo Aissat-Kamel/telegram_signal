@@ -63,8 +63,6 @@ def server_time():
 
 
 
-"""
+
 while(True):
 	server_time()
-
-"""
